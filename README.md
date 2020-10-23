@@ -66,7 +66,7 @@ Imagens disponíveis na pasta `./assets` <br>
 
 ## Tipo de fonte:
 
-- Nunito
+- Nunito: Semi-bold 600, Bold 700
 
 # Compartilhe!
 

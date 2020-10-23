@@ -8,9 +8,9 @@
      Landing page de uma cafeteria online
        <br />
     <br />
-    <a href="">Desafio</a>
+    Desafio
     ·
-    <a href="https://devchallenge.now.sh/">DevChallenge</a>
+    <a href="https://devchallenge.com.br/">DevChallenge</a>
   </p>
 </p>
 
@@ -28,7 +28,7 @@
 
 # Devchallenge
 
-<a href="https://devchallenge.now.sh/"> DevChallenge</a> permite que você evolua suas skills como programador! Participe da nossa <a href="https://discord.gg/yvYXhGj">comunidade</a>
+<a href="https://devchallenge.com.br/"> DevChallenge</a> permite que você evolua suas skills como programador! Participe da nossa <a href="https://discord.gg/yvYXhGj">comunidade</a>
 
 # Desafio
 
@@ -61,7 +61,8 @@ Marrom: #C95E20<br>
 ## Modelo:
 
 O modelo final de desktop e mobile estão disponíveis na pasta `./design`<br>
-Imagens disponíveis na pasta `./assets`
+Imagens disponíveis na pasta `./assets` <br>
+<a href="https://www.figma.com/file/lVkh41YvYiMposXwaJXOYO/get-coffee-layout?node-id=0%3A1">Figma Layout</a>
 
 ## Tipo de fonte:
 
@@ -76,7 +77,7 @@ Design criado por <a href="https://www.linkedin.com/in/lucianesantcs/">Luciane S
 
 # Comunidade DevChallenge
 
-- <a href="https://devchallenge.now.sh/">DevChallenge</a>
+- <a href="https://devchallenge.com.br/">DevChallenge</a>
 - <a href="https://discord.gg/yvYXhGj">Discord</a>
 - <a href="https://www.linkedin.com/company/devchallenge/">Linkedin</a>
 - <a href="https://twitter.com/dev_challenge">Twitter</a>

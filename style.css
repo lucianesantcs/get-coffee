@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&family=Roboto:ital,wght@0,400;0,700;1,100&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: 'Nunito', sans-serif;
+    text-decoration: none;
+}
+
+.h-container{
+    height: 6vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 5rem;
+    box-shadow: 0px 1px 8px rgba(36, 36, 36, 0.15);
+}
+
+.h-box-img{
+    width: calc(30vw - 5%);
+    display: flex;
+    justify-content: flex-end;
+}
+
+.h-logo{
+    width: 70%;
+}
+
+.h-list{
+    width: 25vw;
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.5vw;
+}
+
+.h-list-item a{
+    color: black;
+}
+
+.m-container{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.m-container-top{
+    background-color: coral;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 55vw;
+}
+
+.m-box-right{
+    width: 45vw;
+    height: 30vw;
+    background-color: blue;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.m-box-title{
+    background-color: chartreuse;
+    font-size: calc(2.7vw - 5%);
+}
+
+.m-box-title span{
+    display: block;
+}
+
+.m-form{
+    position: absolute;
+    z-index: -1;
+}
+
+.m-box-left{
+    width: 25vw;
+    background-color: brown;
+}

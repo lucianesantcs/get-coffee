@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 104px;
+    box-shadow: #24242426 0px 1px 15px;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+    width: 20%;
+}
+
+.menu__item{
+    color: #242424;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+}

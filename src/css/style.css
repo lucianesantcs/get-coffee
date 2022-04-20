@@ -9,7 +9,7 @@
 header{
     display: flex;
     justify-content: space-between;
-    padding: 25px 104px;
+    padding: 18px 104px;
     box-shadow: #24242426 0px 1px 15px;
 }
 
@@ -25,4 +25,89 @@ header{
     color: #242424;
     font-family: 'Nunito', sans-serif;
     font-weight: 600;
+}
+
+.background{
+    background-image: url(/assets/forma1.svg);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-position-x: -30mm;
+}
+
+.content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    /* background-color: blue; */
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+    background-image: url(/assets/forma2.svg);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-position-x: 950px;
+}
+
+.content__left{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 300px;
+    
+    width: 500px;
+}
+
+.content__text{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+}
+
+.content__interaction{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: flex-start;
+    height: 100px;
+}
+
+.content_interaction__button{
+    background-color: #FCA60F;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: #FFFF;
+    border: 0;
+    padding: 12px 60px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: opacity ease-in 150ms;
+}
+
+.content_interaction__button:hover{
+    opacity: 0.8;
+}
+
+.content__contact img:not(:first-child) {
+    margin-left: 10px;
+}
+
+.scroll{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.scroll__text{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+    color: #242424;
+
+}
+
+.scroll__icon{
+    display: flex;
+    width: 20px;
+
 }
